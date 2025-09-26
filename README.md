@@ -3,4 +3,4 @@
 # Copilot Studio
 
 Bom ainda não consegui criar a conta da Azure para iniciar os laboratorios não, não sei se vou consequir por causa do cartão de credito. estou errando alguma coisa pos não esta pegando.
-Não tive termpo ainda para finalizar e subir as atividades sobre pacontes.
+Não tive termpo ainda para finalizar e subir as atividades sobre pacontes. isso se inclui também nos projetos do Copilot
